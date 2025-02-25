@@ -6,6 +6,7 @@ function App() {
       <h1 className='p-4 flex justify-center text-5xl text-amber-50 font-bold'>Here you can test your knowledge</h1>
       <div className='text-3xl text-amber-50  mt-2'>
         question</div>
+        
       <div className='cursor-pointer'>
       <div className='text-2xl text-black justify-center flex duration-600 mt-6 rounded-4xl p-2 hover:bg-yellow-500 '>
         option</div>
