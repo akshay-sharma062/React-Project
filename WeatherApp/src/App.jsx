@@ -28,7 +28,7 @@ function App() {
   }
   return (
     <>
-    <div className="p-15 px-20 m-30 sm:w-6xl text-center  font-bold  shadow-2xl shadow-black rounded-2xl bg-transparent">
+    <div className="sm:p-15 px-20 m-30 sm:w-6xl text-center  font-bold  shadow-2xl shadow-black rounded-2xl bg-transparent ">
 
       <Search searchData={City} eventHandler={changeSearch} searchWeather={searchWeatherHandle}/>
       <Result resultData={Weather}/>
