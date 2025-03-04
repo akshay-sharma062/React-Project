@@ -5,6 +5,7 @@ function Questions({ questions, options, handleClick, answer ,nextQuestion }) {
     <div className="p-4 w-96 bg-black border-2 rounded-4xl m-5 shadow-xl hover:shadow-amber-300 duration-700 shadow-blue-700">
       <h1 className="p-4 flex justify-center text-5xl  font-bold">
         Here you can test your knowledge
+        
       </h1>
       <div className="text-3xl  mt-2 flex justify-center font-medium">
         {questions}
