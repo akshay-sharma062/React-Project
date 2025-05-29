@@ -21,7 +21,7 @@ function About() {
       <div className="">
         <h2 className="sm:text-4xl text-yellow-500 text-center my-4 hover:text-purple-500 duration-700 p-2">Personal Info</h2>
         <ul>
-          <li className='text-2xl text-center hover:text-purple-500 duration-700' className='text-2xl text-center hover:text-purple-500 duration-700'><strong>Full Name:</strong> Akshay Kumar Sharma</li>
+          <li className='text-2xl text-center hover:text-purple-500 duration-700'><strong>Full Name:</strong> Akshay Kumar Sharma</li>
           <li className='text-2xl text-center hover:text-purple-500 duration-700'><strong>Email:</strong> akshay.ku.sharma.062@gmail.com</li>
           <li className='text-2xl text-center hover:text-purple-500 duration-700'><strong>Phone:</strong>+91 9929046909</li>
           <li className='text-2xl text-center hover:text-purple-500 duration-700'><strong>Location:</strong> Jaipur, India</li>

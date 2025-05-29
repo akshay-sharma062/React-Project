@@ -25,6 +25,14 @@ function Nav() {
             About
             </NavLink>
           </li>
+          <li>
+            
+            <NavLink to={"/projects"}
+            className={({isActive})=>`m-4 my-2 px-4 ${isActive?"text-yellow-400":"text-white"} font-bold font-serif cursor-pointer hover:text-yellow-400 duration-700 :
+           ` }>
+            Projects
+            </NavLink>
+          </li>
          
         
           <li>  
