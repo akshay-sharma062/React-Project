@@ -1,9 +1,15 @@
+import { Provider } from "react-redux";
+import AddTodo from "./components/AddTodo";
+import Todos from "./components/Todos";
 
 
 export default function Home() {
   return (
-   <div>
-    <h1> TODO With Crud </h1>
-   </div>
+   <>
+    <Provider >
+      <AddTodo />
+      <Todos />
+    </Provider>
+   </>
   );
 }
