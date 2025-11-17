@@ -1,5 +1,5 @@
 import Providers from "./store/Providers"
-
+import "./globals.css";
 export const metadata = {
   title: "Todo App",
   description: "Redux Toolkit Todo App",
