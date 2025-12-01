@@ -7,7 +7,7 @@ function About() {
       <div className=" m-5">
         <h2  className="sm:text-4xl text-yellow-500 text-center my-4 hover:text-purple-500 duration-700 p-2">About Me</h2>
         <p className='text-2xl text-center hover:text-purple-500 duration-700'>
-          I'm Akshay Kumar, a frontend developer with a passion for creating
+          I'm Akshay Kumar, a Frontend Developer with a passion for creating
           beautiful and functional websites. With a strong background in HTML,
           CSS, JavaScript, and React, I enjoy building user-centric web
           applications. I'm always learning and striving to improve my skills
